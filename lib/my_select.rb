@@ -1,4 +1,4 @@
-
+nums = []
 
 def my_select(nums)
   if block_given?
